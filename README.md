@@ -1,0 +1,1 @@
+# First_resource_from_terraform
